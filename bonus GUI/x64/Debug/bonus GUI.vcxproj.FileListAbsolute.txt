@@ -1,0 +1,5 @@
+F:\FCAI\2nd\first semester\OOP\Assignments\Assignment 2\last version\A2-Task3&4&5-S4-20220040-20221151-20221088\bonus2 (task-5)\bonus GUI\bonus GUI\x64\Debug\bonus GUI.vcxproj.AssemblyReference.cache
+F:\FCAI\2nd\first semester\OOP\Assignments\Assignment 2\last version\A2-Task3&4&5-S4-20220040-20221151-20221088\bonus2 (task-5)\bonus GUI\bonus GUI\x64\Debug\bonus GUI.vcxproj.SuggestedBindingRedirects.cache
+F:\FCAI\2nd\first semester\OOP\Assignments\Assignment 2\A2-20220040-20221151-20221088-all\A2-Task3&4&5-S4-20220040-20221151-20221088\bonus2 (task-5)\bonus GUI\bonus GUI\x64\Debug\bonus GUI.vcxproj.AssemblyReference.cache
+F:\FCAI\2nd\first semester\OOP\Assignments\Assignment 2\A2-20220040-20221151-20221088-all\A2-Task3&4&5-S4-20220040-20221151-20221088\bonus2 (task-5)\bonus GUI\bonus GUI\x64\Debug\bonus GUI.vcxproj.SuggestedBindingRedirects.cache
+F:\FCAI\2nd\first semester\OOP\Assignments\Assignment 2\A2-20220040-20221151-20221088-Bounc\task-5\bonus GUI\bonus GUI\x64\Debug\bonus GUI.vcxproj.AssemblyReference.cache
