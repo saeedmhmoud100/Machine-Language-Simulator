@@ -29,7 +29,7 @@ This C++ project is a **Machine Language Simulator** designed to emulate the beh
 ---
 
 This simulator is a great tool for learning how low-level machine language works and can serve as an educational resource for understanding CPU and memory interactions in a simulated environment.
-![Machine Language Simulator](https://github.com/saeedmhmoud100/Machine-Language-Simulator/blob/main/screens/Screenshot%202023-11-15%20102816.png)
 ![Machine Language Simulator](https://github.com/saeedmhmoud100/Machine-Language-Simulator/blob/main/screens/Screenshot%202023-11-15%20102623.png)
+![Machine Language Simulator](https://github.com/saeedmhmoud100/Machine-Language-Simulator/blob/main/screens/Screenshot%202023-11-15%20102816.png)
 ![Machine Language Simulator](https://github.com/saeedmhmoud100/Machine-Language-Simulator/blob/main/screens/Screenshot%202023-11-15%20102647.png)
 
